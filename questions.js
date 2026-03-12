@@ -1,0 +1,22 @@
+const questions = [
+    { q: "What is the main diagnostic significance of a Urea/Creatinine ratio < 10?", o: ["Renal failure", "Pre-renal failure", "Normal status", "Liver dysfunction"], a: 0 },
+    { q: "Which element helps in controlling genetic expression?", o: ["Zinc", "Iodine", "Creatinine", "Urea"], a: 0 },
+    { q: "What is the principle of the Zinc assay?", o: ["Chromogen forming a colored complex", "Oxidation of NADH", "Reaction with alkaline picrate", "Hydrolysis by Urease"], a: 0 },
+    { q: "Which enzyme is a marker for liver diseases involving necrosis?", o: ["ALT", "Urease", "AST", "ALP"], a: 0 },
+    { q: "Why is iodine not the preferred test for population status when measured in serum?", o: ["Reflects only recent intake", "Too expensive", "Not sensitive", "Dangerous to measure"], a: 0 },
+    { q: "In the AST/ALT test, what is the role of LDH?", o: ["Prevents pyruvate interference", "Increases enzyme activity", "Acts as a substrate", "Decreases the temperature"], a: 0 },
+    { q: "What is the byproduct of Phospho Creatinine in muscle?", o: ["Creatinine", "Ammonia", "Urea", "Alanine"], a: 0 },
+    { q: "High ALP is a marker for which bone disease?", o: ["Paget's disease", "Rickets", "Osteomalacia", "All of the above"], a: 3 },
+    { q: "What is a clinical cause of increased Urea levels?", o: ["Congestive heart failure", "Normal pregnancy", "Liver failure", "Muscle hypertrophy"], a: 0 },
+    { q: "What does the Cockcroft-Gault equation clinically approximate?", o: ["GFR", "Thyroid function", "Zinc level", "Liver enzyme level"], a: 0 },
+    { q: "Which enzyme is found in the pancreas, spleen, and lungs in addition to the liver?", o: ["ALT", "ALP", "Urease", "AST"], a: 0 },
+    { q: "Which condition results in low serum iodine levels?", o: ["Severe iodine deficiency", "Iodine supplementation", "Use of Amiodarone", "Excessive seafood intake"], a: 0 },
+    { q: "What is used to remove precipitates from biological samples?", o: ["Centrifugation", "Heating", "Dilution", "Freezing"], a: 0 },
+    { q: "What is the substrate for Alkaline Phosphatase (ALP)?", o: ["p-Nitrophenyl phosphate", "Aspartate", "Alanine", "Urea"], a: 0 },
+    { q: "Which trace element deficiency is linked to malignancy?", o: ["Zinc", "Iodine", "Creatinine", "Urea"], a: 0 },
+    { q: "What is the main source of nitrogen for Urea synthesis?", o: ["Ammonia from amino acid catabolism", "Creatinine breakdown", "Zinc metabolism", "Thyroid hormones"], a: 0 },
+    { q: "Which condition may lead to decreased AST levels?", o: ["Pregnancy", "Myocardial infarction", "Liver disease", "Muscle trauma"], a: 0 },
+    { q: "At what pH does ALP show maximum catalytic activity?", o: ["9.8", "7.0", "5.0", "2.0"], a: 0 },
+    { q: "Why is serum creatinine preferred to monitor kidney function?", o: ["It is not affected by protein diet", "It is produced in the liver", "It is not found in muscles", "It is an iodine byproduct"], a: 0 },
+    { q: "Which element is essential for regulating metabolism and growth?", o: ["Iodine", "Zinc", "Creatinine", "Urea"], a: 0 }
+];
